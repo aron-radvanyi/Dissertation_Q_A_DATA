@@ -1,0 +1,802 @@
+[
+    {
+        "prompt": "What are unratified marks and when will I know the marks are final?",
+        "completion": "This is the mark that is agreed by the markers. It is ratified or finalised at the Programme Assessment Board."
+    },
+    {
+        "prompt": "Is it possible to find out when my grades are final if they are not ratified?",
+        "completion": "This is the mark that is agreed by the markers. It is ratified or finalised at the Programme Assessment Board."
+    },
+    {
+        "prompt": "Is it possible to know when my marks are final if they are not ratified?",
+        "completion": "This is the mark that is agreed by the markers. It is ratified or finalised at the Programme Assessment Board."
+    },
+    {
+        "prompt": "When my unratified marks become final, how will I know?",
+        "completion": "This is the mark that is agreed by the markers. It is ratified or finalised at the Programme Assessment Board."
+    },
+    {
+        "prompt": "If my marks have not been ratified, when will they be final?",
+        "completion": "This is the mark that is agreed by the markers. It is ratified or finalised at the Programme Assessment Board."
+    },
+    {
+        "prompt": "I am awaiting ratification of my marks. How do I know if they are final?",
+        "completion": "This is the mark that is agreed by the markers. It is ratified or finalised at the Programme Assessment Board."
+    },
+    {
+        "prompt": "If my marks are unratified, when are they final?",
+        "completion": "This is the mark that is agreed by the markers. It is ratified or finalised at the Programme Assessment Board."
+    },
+    {
+        "prompt": "What is an unratified mark and when I will receive my final marks?",
+        "completion": "That\u2019s the mark that is agreed by the markers. It is ratified or finalised at the Programme Assessment Board."
+    },
+    {
+        "prompt": "When I will receive my final mark and what are unratified marks?",
+        "completion": "Unratified marks are agreed by the markers. It is ratified or finalised at the Programme Assessment Board."
+    },
+    {
+        "prompt": "What\u2019s an unratified mark and when I\u2019ll receive my final mark?",
+        "completion": "This is the mark that is agreed by the markers. It is ratified or finalised at the Programme Assessment Board."
+    },
+    {
+        "prompt": "Where and when do I find exam results?",
+        "completion": "Students get their exam results via the Edinburgh Napier app or via My Account on My Napier. The date of exam results is released on the exam pages on My Napier"
+    },
+    {
+        "prompt": "What's the best way to find exam results?",
+        "completion": "Students get their exam results via the Edinburgh Napier app or via My Account on My Napier. The date of exam results is released on the exam pages on My Napier"
+    },
+    {
+        "prompt": "Where can I find exam results?",
+        "completion": "Students get their exam results via the Edinburgh Napier app or via My Account on My Napier. The date of exam results is released on the exam pages on My Napier"
+    },
+    {
+        "prompt": "What do I do if I want my exam results?",
+        "completion": "Students get their exam results via the Edinburgh Napier app or via My Account on My Napier. The date of exam results is released on the exam pages on My Napier"
+    },
+    {
+        "prompt": "Exam results: where do I find them?",
+        "completion": "Students get their exam results via the Edinburgh Napier app or via My Account on My Napier. The date of exam results is released on the exam pages on My Napier"
+    },
+    {
+        "prompt": "Can you tell me where the exam results are?",
+        "completion": "Students get their exam results via the Edinburgh Napier app or via My Account on My Napier. The date of exam results is released on the exam pages on My Napier"
+    },
+    {
+        "prompt": "I can't find my exam results.",
+        "completion": "Students get their exam results via the Edinburgh Napier app or via My Account on My Napier. The date of exam results is released on the exam pages on My Napier"
+    },
+    {
+        "prompt": "What is the procedure for finding exam results?",
+        "completion": "Students get their exam results via the Edinburgh Napier app or via My Account on My Napier. The date of exam results is released on the exam pages on My Napier"
+    },
+    {
+        "prompt": "When and where do I find exam results?",
+        "completion": "You get your exam results via the Edinburgh Napier app or via My Account on My Napier. All the dates of exam results are released on the exam pages on My Napier."
+    },
+    {
+        "prompt": "When and where do I find an exam result?",
+        "completion": "You get your exam results via the Edinburgh Napier app or via My Account on My Napier. The date is released on the exam pages."
+    },
+    {
+        "prompt": "I failed my assessment, and I am no longer on the programme, what should I do?",
+        "completion": "Students have two attempts available for each module. They should find out the date of the resit and make an appointment to meet with the module leader or member of the team to discuss feedback."
+    },
+    {
+        "prompt": "What should I do if I failed my assessment?",
+        "completion": "Students have two attempts available for each module. They should find out the date of the resit and make an appointment to meet with the module leader or member of the team to discuss feedback."
+    },
+    {
+        "prompt": "My assessment failed, so I'm no longer on the programme. What do I do?",
+        "completion": "Students have two attempts available for each module. They should find out the date of the resit and make an appointment to meet with the module leader or member of the team to discuss feedback."
+    },
+    {
+        "prompt": "I failed my assessment, now I'm not on the programme, what do I do?",
+        "completion": "Students have two attempts available for each module. They should find out the date of the resit and make an appointment to meet with the module leader or member of the team to discuss feedback."
+    },
+    {
+        "prompt": "Having failed my assessment, I'm no longer on the program, what should I do?",
+        "completion": "Students have two attempts available for each module. They should find out the date of the resit and make an appointment to meet with the module leader or member of the team to discuss feedback."
+    },
+    {
+        "prompt": "Why did I fail my assessment? What should I do?",
+        "completion": "Students have two attempts available for each module. They should find out the date of the resit and make an appointment to meet with the module leader or member of the team to discuss feedback."
+    },
+    {
+        "prompt": "It's been a while since my last assessment, what should I do?",
+        "completion": "Students have two attempts available for each module. They should find out the date of the resit and make an appointment to meet with the module leader or member of the team to discuss feedback."
+    },
+    {
+        "prompt": "The program is no longer accepting me because I failed the assessment, what do I do now?",
+        "completion": "Students have two attempts available for each module. They should find out the date of the resit and make an appointment to meet with the module leader or member of the team to discuss feedback."
+    },
+    {
+        "prompt": "I am no longer on my programme because I failed my assessment, what should I do?",
+        "completion": "You have two attempts available for each module. You should find out the date of the resit and make an appointment to meet with your module leader or member of the team to discuss feedback."
+    },
+    {
+        "prompt": "I am no longer on my programme because I failed my assessment, what can I do?",
+        "completion": "A student has two attempts available for each module. Should find out the date of the resit and make an appointment to meet with the module leader or member of the team to discuss results."
+    },
+    {
+        "prompt": "How I make a complaint?",
+        "completion": "Stage one complaints are dealt with by the Personal Development Tutor."
+    },
+    {
+        "prompt": "What do I do if I have a complaint?",
+        "completion": "Stage one complaints are dealt with by the Personal Development Tutor."
+    },
+    {
+        "prompt": "How do I complain?",
+        "completion": "Stage one complaints are dealt with by the Personal Development Tutor."
+    },
+    {
+        "prompt": "How do I make a complaint?",
+        "completion": "Stage one complaints are dealt with by the Personal Development Tutor."
+    },
+    {
+        "prompt": "I want to complain, how do I do that?",
+        "completion": "Stage one complaints are dealt with by the Personal Development Tutor."
+    },
+    {
+        "prompt": "What should I do if I have a complaint?",
+        "completion": "Stage one complaints are dealt with by the Personal Development Tutor."
+    },
+    {
+        "prompt": "Where do I file a complaint?",
+        "completion": "Stage one complaints are dealt with by the Personal Development Tutor."
+    },
+    {
+        "prompt": "How I make complaints?",
+        "completion": "If it\u2019s a stage one complaint it is dealt with Personal Development Tutor."
+    },
+    {
+        "prompt": "How to make a complaint?",
+        "completion": "If it\u2019s a stage one complaint your Personal Development Tutor will deal with it."
+    },
+    {
+        "prompt": "Complaints: how do I do it?",
+        "completion": "Stage one complaints are dealt with by the Personal Development Tutor."
+    },
+    {
+        "prompt": "I feel that I am not being supported on placement. What should I do?",
+        "completion": "Please, tell me more about the lack of support? Have you discussed it with the placement supervisor/mentor? Are you aware that there is a member of academic staff attached to each placement and they can support them? InPlace can be used to find name of link lecturer (SHSC). The module leader will be able to find the staff member supporting non-NHS placements."
+    },
+    {
+        "prompt": "I sense a lack of support during my placement. What steps can I take to address this?",
+        "completion": "Please, tell me more about the lack of support? Have you discussed it with the placement supervisor/mentor? Are you aware that there is a member of academic staff attached to each placement and they can support them? InPlace can be used to find name of link lecturer (SHSC). The module leader will be able to find the staff member supporting non-NHS placements."
+    },
+    {
+        "prompt": "There's a feeling that I'm not receiving enough support while on placement. Any suggestions on how to handle this situation?",
+        "completion": "Please, tell me more about the lack of support? Have you discussed it with the placement supervisor/mentor? Are you aware that there is a member of academic staff attached to each placement and they can support them? InPlace can be used to find name of link lecturer (SHSC). The module leader will be able to find the staff member supporting non-NHS placements."
+    },
+    {
+        "prompt": "During my placement, I have a perception that I am not being adequately supported. What actions should I consider?",
+        "completion": "Please, tell me more about the lack of support? Have you discussed it with the placement supervisor/mentor? Are you aware that there is a member of academic staff attached to each placement and they can support them? InPlace can be used to find name of link lecturer (SHSC). The module leader will be able to find the staff member supporting non-NHS placements."
+    },
+    {
+        "prompt": "The impression I have is that I'm lacking support on my placement. What would be the appropriate course of action?",
+        "completion": "Please, tell me more about the lack of support? Have you discussed it with the placement supervisor/mentor? Are you aware that there is a member of academic staff attached to each placement and they can support them? InPlace can be used to find name of link lecturer (SHSC). The module leader will be able to find the staff member supporting non-NHS placements."
+    },
+    {
+        "prompt": "I'm experiencing a sense of being unsupported during my placement. How can I best handle this concern?",
+        "completion": "Please, tell me more about the lack of support? Have you discussed it with the placement supervisor/mentor? Are you aware that there is a member of academic staff attached to each placement and they can support them? InPlace can be used to find name of link lecturer (SHSC). The module leader will be able to find the staff member supporting non-NHS placements."
+    },
+    {
+        "prompt": "I have a concern that I'm not receiving the support I need on placement. What would be the best approach to address this?",
+        "completion": "Please, tell me more about the lack of support? Have you discussed it with the placement supervisor/mentor? Are you aware that there is a member of academic staff attached to each placement and they can support them? InPlace can be used to find name of link lecturer (SHSC). The module leader will be able to find the staff member supporting non-NHS placements."
+    },
+    {
+        "prompt": "I have a feeling that I am not supported on my internship. What can I do?",
+        "completion": "Can you tell me more about the lacking support? Have you discussed it with the supervisor/mentor? There is a member of academic staff attached to each placement and they can support them."
+    },
+    {
+        "prompt": "My feeling is that I have no support on my placement. What is possible to do?",
+        "completion": "Can you explain more the lack of support? Did you have a discussion with your supervisor? There is a member of academic staff attached to each placement and they can support them."
+    },
+    {
+        "prompt": "How should I proceed if I sense a lack of support during my placement?",
+        "completion": "Can you explain more the lack of support? Did you have a discussion with your supervisor? There is a member of academic staff attached to each placement and they can support them."
+    },
+    {
+        "prompt": "I was referred to Fitness to Practice, what should I do?",
+        "completion": "You will receive a letter inviting you to a meeting to discuss this (SHSC). The PDT should offer to accompany you to the meeting if they wish. You can also obtain advice and support from ENSA."
+    },
+    {
+        "prompt": "I've been directed to Fitness to Practice. How should I proceed in this situation?",
+        "completion": "You will receive a letter inviting you to a meeting to discuss this (SHSC). The PDT should offer to accompany you to the meeting if they wish. You can also obtain advice and support from ENSA."
+    },
+    {
+        "prompt": "A referral has been made to Fitness to Practice. What steps do you recommend I take now?",
+        "completion": "You will receive a letter inviting you to a meeting to discuss this (SHSC). The PDT should offer to accompany you to the meeting if they wish. You can also obtain advice and support from ENSA."
+    },
+    {
+        "prompt": "I received a referral to Fitness to Practice. What actions should I consider at this point?",
+        "completion": "You will receive a letter inviting you to a meeting to discuss this (SHSC). The PDT should offer to accompany you to the meeting if they wish. You can also obtain advice and support from ENSA."
+    },
+    {
+        "prompt": "I find myself referred to Fitness to Practice. What would be the appropriate course of action?",
+        "completion": "You will receive a letter inviting you to a meeting to discuss this (SHSC). The PDT should offer to accompany you to the meeting if they wish. You can also obtain advice and support from ENSA."
+    },
+    {
+        "prompt": "There has been a referral to Fitness to Practice on my behalf. How can I best handle this situation?",
+        "completion": "You will receive a letter inviting you to a meeting to discuss this (SHSC). The PDT should offer to accompany you to the meeting if they wish. You can also obtain advice and support from ENSA."
+    },
+    {
+        "prompt": "I'm facing a situation where I've been referred to Fitness to Practice. What should be my next move?",
+        "completion": "You will receive a letter inviting you to a meeting to discuss this (SHSC). The PDT should offer to accompany you to the meeting if they wish. You can also obtain advice and support from ENSA."
+    },
+    {
+        "prompt": "My situation is that I have been referred to Sit to fit What should I next do?",
+        "completion": "You will receive a letter inviting you to a meeting to discuss this (SHSC). The PDT should offer to accompany you to the meeting if they wish. You can also obtain advice and support from ENSA."
+    },
+    {
+        "prompt": "The knowledge of my referral to Fitness to Practice has prompted me to seek counsel on what to do next.",
+        "completion": "You get a letter inviting you to a meeting to discuss this (SHSC). Your PDT should offer to accompany you to the meeting if they want. You can also obtain advice and support from ENSA."
+    },
+    {
+        "prompt": "I have received a reference to Fitness to practice, how to proceed?",
+        "completion": "There will be a letter inviting you to a meeting to discuss this (SHSC). The PDT should offer to go with you to the meeting if they wish. You can also get more advice and support from ENSA."
+    },
+    {
+        "prompt": "How are student degrees calculated?",
+        "completion": "This information is available on the Regulations intranet page."
+    },
+    {
+        "prompt": "What is the process for calculating student degrees?",
+        "completion": "This information is available on the Regulations intranet page."
+    },
+    {
+        "prompt": "How do academic institutions determine student degrees?",
+        "completion": "This information is available on the Regulations intranet page."
+    },
+    {
+        "prompt": "What factors are considered when calculating student degrees?",
+        "completion": "This information is available on the Regulations intranet page."
+    },
+    {
+        "prompt": "Can you explain the method used to calculate student degrees?",
+        "completion": "This information is available on the Regulations intranet page."
+    },
+    {
+        "prompt": "What criteria are used to assess student performance for degree calculation?",
+        "completion": "This information is available on the Regulations intranet page."
+    },
+    {
+        "prompt": "Is there a specific formula used for determining student degrees?",
+        "completion": "This information is available on the Regulations intranet page."
+    },
+    {
+        "prompt": "Who is responsible for calculating student degrees at the university?",
+        "completion": "This information is available on the Regulations intranet page."
+    },
+    {
+        "prompt": "What is the method used to calculate student degrees?",
+        "completion": "There is an information available on the Regulations intranet page."
+    },
+    {
+        "prompt": "What is the process used to calculate student degrees?",
+        "completion": "Information is available on the Regulations intranet page."
+    },
+    {
+        "prompt": "The standards of care in my clinical area are unacceptable, how do they get support and guidance?",
+        "completion": "You are right to bring this to our attention. Are you able to write a statement so that we can act on this? Are you aware of the support that is in place for you in this difficult situation?"
+    },
+    {
+        "prompt": "In my clinical area, if the standards of care are deemed unacceptable, how can they obtain support and guidance?",
+        "completion": "You are right to bring this to our attention. Are you able to write a statement so that we can act on this? Are you aware of the support that is in place for you in this difficult situation?"
+    },
+    {
+        "prompt": "What steps can be taken to provide support and guidance if the standards of care in my clinical area are considered unacceptable?",
+        "completion": "You are right to bring this to our attention. Are you able to write a statement so that we can act on this? Are you aware of the support that is in place for you in this difficult situation?"
+    },
+    {
+        "prompt": "How is support and guidance offered when the standards of care are deemed unacceptable in my clinical area?",
+        "completion": "You are right to bring this to our attention. Are you able to write a statement so that we can act on this? Are you aware of the support that is in place for you in this difficult situation?"
+    },
+    {
+        "prompt": "Who can be approached to seek support and guidance in improving the standards of care in my clinical area?",
+        "completion": "You are right to bring this to our attention. Are you able to write a statement so that we can act on this? Are you aware of the support that is in place for you in this difficult situation?"
+    },
+    {
+        "prompt": "When facing unacceptable standards of care in my clinical area, what resources are available to offer support and guidance?",
+        "completion": "You are right to bring this to our attention. Are you able to write a statement so that we can act on this? Are you aware of the support that is in place for you in this difficult situation?"
+    },
+    {
+        "prompt": "Are there specific protocols in place to address and improve the standards of care in my clinical area if they are found to be unacceptable?",
+        "completion": "You are right to bring this to our attention. Are you able to write a statement so that we can act on this? Are you aware of the support that is in place for you in this difficult situation?"
+    },
+    {
+        "prompt": "What measures are in place to ensure that the appropriate support and guidance are given when the standards of care are considered unacceptable?",
+        "completion": "You are right to bring this to our attention. Are you able to write a statement so that we can act on this? Are you aware of the support that is in place for you in this difficult situation?"
+    },
+    {
+        "prompt": "If the standards of care in my clinical area fall below acceptable levels, what avenues exist to seek support and guidance?",
+        "completion": "It is right to bring this into our attention. Can you write a statement about this issue so we can act? Do you know the support available for you?"
+    },
+    {
+        "prompt": "In cases of unacceptable standards of care, how can the staff in my clinical area access additional support and guidance?",
+        "completion": "It is right to bring this into our attention. You should write a statement about this issue so we can act. There is a support available to you."
+    },
+    {
+        "prompt": "I think I might be dyslexic / have ADHD / etc., what should I do?",
+        "completion": "You should Contact the Disability & Inclusion team in the first instance to ask for an appointment."
+    },
+    {
+        "prompt": "If I suspect that I might have dyslexia / ADHD / etc., what steps should I take next?",
+        "completion": "You should Contact the Disability & Inclusion team in the first instance to ask for an appointment."
+    },
+    {
+        "prompt": "What course of action is recommended if I believe I may be experiencing dyslexia / ADHD / etc.?",
+        "completion": "You should Contact the Disability & Inclusion team in the first instance to ask for an appointment."
+    },
+    {
+        "prompt": "How should I proceed if I think I could be dyslexic / have ADHD / etc.?",
+        "completion": "You should Contact the Disability & Inclusion team in the first instance to ask for an appointment."
+    },
+    {
+        "prompt": "Are there specific resources available for individuals who suspect they may have dyslexia / ADHD / etc.?",
+        "completion": "You should Contact the Disability & Inclusion team in the first instance to ask for an appointment."
+    },
+    {
+        "prompt": "What are the recommended measures for someone who suspects they have dyslexia / ADHD / etc.?",
+        "completion": "You should Contact the Disability & Inclusion team in the first instance to ask for an appointment."
+    },
+    {
+        "prompt": "In the event that I think I might have dyslexia / ADHD / etc., who should I reach out to for assistance?",
+        "completion": "You should Contact the Disability & Inclusion team in the first instance to ask for an appointment."
+    },
+    {
+        "prompt": "Are there any assessments or evaluations I should consider if I suspect I have dyslexia / ADHD / etc.?",
+        "completion": "You should Contact the Disability & Inclusion team in the first instance to ask for an appointment."
+    },
+    {
+        "prompt": "What support services are available to individuals who suspect they may have dyslexia / ADHD / etc.?",
+        "completion": "Contact the Disability & Inclusion team in the first instance to ask for an appointment."
+    },
+    {
+        "prompt": "How can I gain further insight into my potential dyslexia / ADHD / etc. condition and what steps to take?",
+        "completion": "Contact the Disability & Inclusion team in the first instance to get an appointment."
+    },
+    {
+        "prompt": "What do I do if I need an extension?",
+        "completion": "You should contact your module leader."
+    },
+    {
+        "prompt": "If I require an extension, what steps should I take to obtain one?",
+        "completion": "You should contact your module leader."
+    },
+    {
+        "prompt": "What is the process for requesting an extension if I need more time?",
+        "completion": "You should contact your module leader."
+    },
+    {
+        "prompt": "How can I go about seeking an extension if my current deadline is not feasible?",
+        "completion": "You should contact your module leader."
+    },
+    {
+        "prompt": "Are there specific guidelines or procedures to follow when requesting an extension?",
+        "completion": "You should contact your module leader."
+    },
+    {
+        "prompt": "In the event that I need additional time, who should I approach to discuss an extension?",
+        "completion": "You should contact your module leader."
+    },
+    {
+        "prompt": "What information or documentation might be required when asking for an extension?",
+        "completion": "You should contact your module leader."
+    },
+    {
+        "prompt": "Are there any limitations or restrictions on obtaining an extension for my task?",
+        "completion": "You should contact your module leader."
+    },
+    {
+        "prompt": "What are the usual circumstances under which an extension can be granted?",
+        "completion": "Contact your module leader."
+    },
+    {
+        "prompt": "If I need more time to complete my work, what options do I have for requesting an extension?",
+        "completion": "Module leader can help you."
+    },
+    {
+        "prompt": "I had extra help at school / college and would like the same arrangements here, e.g. extra time in exams, what should I do?",
+        "completion": "You should Contact the Disability & Inclusion team in the first instance to ask for an appointment."
+    },
+    {
+        "prompt": "If I received additional support in school / college and wish to have similar arrangements here, like extra time in exams, what steps should I take?",
+        "completion": "You should Contact the Disability & Inclusion team in the first instance to ask for an appointment."
+    },
+    {
+        "prompt": "What is the process for requesting the same accommodations at my current institution that I had in school / college, such as extra time during exams?",
+        "completion": "You should Contact the Disability & Inclusion team in the first instance to ask for an appointment."
+    },
+    {
+        "prompt": "How can I go about seeking the continuation of the support I received before, such as extra assistance or extended exam time?",
+        "completion": "You should Contact the Disability & Inclusion team in the first instance to ask for an appointment."
+    },
+    {
+        "prompt": "Are there specific guidelines or procedures to follow when requesting similar arrangements to those I had in school / college?",
+        "completion": "You should Contact the Disability & Inclusion team in the first instance to ask for an appointment."
+    },
+    {
+        "prompt": "In order to have the same accommodations here as I had previously, whom should I approach to discuss my needs?",
+        "completion": "You should Contact the Disability & Inclusion team in the first instance to ask for an appointment."
+    },
+    {
+        "prompt": "What information or documentation might be required when requesting similar arrangements to those I had in school / college?",
+        "completion": "You should Contact the Disability & Inclusion team in the first instance to ask for an appointment."
+    },
+    {
+        "prompt": "Are there any limitations or criteria for obtaining the same accommodations that I previously received?",
+        "completion": "You should Contact the Disability & Inclusion team in the first instance to ask for an appointment."
+    },
+    {
+        "prompt": "What are the usual circumstances under which the institution grants similar arrangements, such as extra time in exams?",
+        "completion": "Contact the Disability & Inclusion team in the first instance to ask for an appointment."
+    },
+    {
+        "prompt": "If I need additional support at my current educational level, what options do I have for requesting similar accommodations?",
+        "completion": "Ask an appointment with the Disability & Inclusion team."
+    },
+    {
+        "prompt": "How do I get my assessment results?",
+        "completion": "You should contact your module team, or they can consult assessment information on Moodle."
+    },
+    {
+        "prompt": "What is the process for obtaining my assessment results?",
+        "completion": "You should contact your module team, or they can consult assessment information on Moodle."
+    },
+    {
+        "prompt": "How can I access my assessment results?",
+        "completion": "You should contact your module team, or they can consult assessment information on Moodle."
+    },
+    {
+        "prompt": "Are there specific steps I need to follow to get my assessment results?",
+        "completion": "You should contact your module team, or they can consult assessment information on Moodle."
+    },
+    {
+        "prompt": "Whom should I contact to inquire about my assessment results?",
+        "completion": "You should contact your module team, or they can consult assessment information on Moodle."
+    },
+    {
+        "prompt": "What information or details might I need to provide to receive my assessment results?",
+        "completion": "You should contact your module team, or they can consult assessment information on Moodle."
+    },
+    {
+        "prompt": "Are there any specific platforms or systems where my assessment results will be available?",
+        "completion": "You should contact your module team, or they can consult assessment information on Moodle."
+    },
+    {
+        "prompt": "When can I expect to receive my assessment results?",
+        "completion": "You should contact your module team, or they can consult assessment information on Moodle."
+    },
+    {
+        "prompt": "Is there a specific timeline for releasing assessment results?",
+        "completion": "Should contact the module team, or they can consult assessment information on Moodle."
+    },
+    {
+        "prompt": "Are there any potential delays or factors that could affect the availability of my assessment results?",
+        "completion": "Either assessment information or the module team can help you."
+    },
+    {
+        "prompt": "I am not happy with my results, can I appeal?",
+        "completion": "Information about appeals can be found on Appeals My Napier page."
+    },
+    {
+        "prompt": "Is there an appeal process available if I am dissatisfied with my results?",
+        "completion": "Information about appeals can be found on Appeals My Napier page."
+    },
+    {
+        "prompt": "What steps should I take if I wish to appeal my results?",
+        "completion": "Information about appeals can be found on Appeals My Napier page."
+    },
+    {
+        "prompt": "Are there specific guidelines or criteria for initiating an appeal regarding my results?",
+        "completion": "Information about appeals can be found on Appeals My Napier page."
+    },
+    {
+        "prompt": "Whom should I contact to begin the appeals process for my results?",
+        "completion": "Information about appeals can be found on Appeals My Napier page."
+    },
+    {
+        "prompt": "Is there a deadline by which I need to submit my appeal for consideration?",
+        "completion": "Information about appeals can be found on Appeals My Napier page."
+    },
+    {
+        "prompt": "What information or evidence might I need to provide to support my appeal?",
+        "completion": "Information about appeals can be found on Appeals My Napier page."
+    },
+    {
+        "prompt": "Are there any potential outcomes or consequences associated with lodging an appeal for my results?",
+        "completion": "Information about appeals can be found on Appeals My Napier page."
+    },
+    {
+        "prompt": "How long does the appeals process typically take, and when can I expect a decision?",
+        "completion": "The Information can be found on Appeals My Napier page."
+    },
+    {
+        "prompt": "If my appeal is unsuccessful, are there any further options available to challenge the results?",
+        "completion": "This info can be found on the webpage."
+    },
+    {
+        "prompt": "I am struggling to meet deadlines; what options are available to me?",
+        "completion": "Refer to Fit to Sit and Extenuating Circumstances guidance."
+    },
+    {
+        "prompt": "What alternatives can I explore if I find it challenging to meet my deadlines?",
+        "completion": "Refer to Fit to Sit and Extenuating Circumstances guidance."
+    },
+    {
+        "prompt": "Are there any available solutions or resources to help with my struggles in meeting deadlines?",
+        "completion": "Refer to Fit to Sit and Extenuating Circumstances guidance."
+    },
+    {
+        "prompt": "How can I seek assistance if I am facing difficulties in meeting my required timeframes?",
+        "completion": "Refer to Fit to Sit and Extenuating Circumstances guidance."
+    },
+    {
+        "prompt": "What support services are offered for individuals who are finding it hard to meet their deadlines?",
+        "completion": "Refer to Fit to Sit and Extenuating Circumstances guidance."
+    },
+    {
+        "prompt": "Are there specific strategies or time management techniques that can aid me in meeting my deadlines more effectively?",
+        "completion": "Refer to Fit to Sit and Extenuating Circumstances guidance."
+    },
+    {
+        "prompt": "Whom should I approach to discuss my challenges in meeting deadlines and explore potential options?",
+        "completion": "Refer to Fit to Sit and Extenuating Circumstances guidance."
+    },
+    {
+        "prompt": "What are the consequences if I am unable to meet certain deadlines, and can they be mitigated in any way?",
+        "completion": "Refer to Fit to Sit and Extenuating Circumstances guidance."
+    },
+    {
+        "prompt": "Are there any adjustments or accommodations that can be made to help me cope with the deadline pressures?",
+        "completion": "Fit to Sit and Extenuating Circumstances guidance can help you."
+    },
+    {
+        "prompt": "Struggling with deadlines, what is possible to do? What steps can I take to improve my time management skills and address my struggles with deadlines?",
+        "completion": "Seek help on Fit to Sit and Extenuating Circumstances guidance."
+    },
+    {
+        "prompt": "When are the resits?",
+        "completion": "You should find this information on the module Moodle pages in the Assessment section. Also, contact your Module Leader or check the Edinburgh Napier App."
+    },
+    {
+        "prompt": "What is the schedule for the resits?",
+        "completion": "You should find this information on the module Moodle pages in the Assessment section. Also, contact your Module Leader or check the Edinburgh Napier App."
+    },
+    {
+        "prompt": "Are there specific dates set for the resit examinations?",
+        "completion": "You should find this information on the module Moodle pages in the Assessment section. Also, contact your Module Leader or check the Edinburgh Napier App."
+    },
+    {
+        "prompt": "When can I expect the resits to take place?",
+        "completion": "You should find this information on the module Moodle pages in the Assessment section. Also, contact your Module Leader or check the Edinburgh Napier App."
+    },
+    {
+        "prompt": "Are there any particular time frames allotted for the resit assessments?",
+        "completion": "You should find this information on the module Moodle pages in the Assessment section. Also, contact your Module Leader or check the Edinburgh Napier App."
+    },
+    {
+        "prompt": "Whom should I contact to find out the resit dates?",
+        "completion": "You should find this information on the module Moodle pages in the Assessment section. Also, contact your Module Leader or check the Edinburgh Napier App."
+    },
+    {
+        "prompt": "Is there a published resit timetable available for reference?",
+        "completion": "You should find this information on the module Moodle pages in the Assessment section. Also, contact your Module Leader or check the Edinburgh Napier App."
+    },
+    {
+        "prompt": "What is the timeline for announcing the resit examination schedule?",
+        "completion": "You should find this information on the module Moodle pages in the Assessment section. Also, contact your Module Leader or check the Edinburgh Napier App."
+    },
+    {
+        "prompt": "Are there any specific guidelines or procedures to follow for registering for the resits?",
+        "completion": "Find this information on the module Moodle pages in the Assessment section. Contact your Module Leader or check the Edinburgh Napier App."
+    },
+    {
+        "prompt": "If I miss the initial exams, how can I find out about resit opportunities?",
+        "completion": "This information is on the module Moodle pages in the Assessment section. Also, contact your Module Leader or check the Edinburgh Napier App."
+    },
+    {
+        "prompt": "What do I do if I am struggling with course work?",
+        "completion": "Discuss this with the module team.\nIt may be appropriate to refer to academic support, your librarian or mental health team."
+    },
+    {
+        "prompt": "Whom should I approach for help if I find myself struggling with my coursework?",
+        "completion": "Discuss this with the module team.\nIt may be appropriate to refer to academic support, your librarian or mental health team."
+    },
+    {
+        "prompt": "What resources are available to support students who are facing difficulties with their coursework?",
+        "completion": "Discuss this with the module team.\nIt may be appropriate to refer to academic support, your librarian or mental health team."
+    },
+    {
+        "prompt": "How can I seek assistance if I am having trouble with my course assignments and projects?",
+        "completion": "Discuss this with the module team.\nIt may be appropriate to refer to academic support, your librarian or mental health team."
+    },
+    {
+        "prompt": "Are there specific study groups or tutoring services to aid students struggling with coursework?",
+        "completion": "Discuss this with the module team.\nIt may be appropriate to refer to academic support, your librarian or mental health team."
+    },
+    {
+        "prompt": "What steps can I take to address my challenges with coursework effectively?",
+        "completion": "Discuss this with the module team.\nIt may be appropriate to refer to academic support, your librarian or mental health team."
+    },
+    {
+        "prompt": "Whom should I notify if my coursework struggles are impacting my academic performance?",
+        "completion": "Discuss this with the module team.\nIt may be appropriate to refer to academic support, your librarian or mental health team."
+    },
+    {
+        "prompt": "Is there a designated academic support center to guide students through coursework challenges?",
+        "completion": "Discuss this with the module team.\nIt may be appropriate to refer to academic support, your librarian or mental health team."
+    },
+    {
+        "prompt": "Are there any time-sensitive measures I should consider if I am struggling with coursework?",
+        "completion": "You must discuss this with the module team.\nPossibly refer to academic support, your librarian or mental health team."
+    },
+    {
+        "prompt": "What options do I have for discussing my coursework concerns with faculty or instructors?",
+        "completion": "You can discuss this with the module team.\nPossibly refer to academic support, your librarian or mental health team."
+    },
+    {
+        "prompt": "I do not think I have been marked fairly in my exam / essay, what can I do?",
+        "completion": "You should contact the module leader to explain your concern. You can appeal but only on the grounds outlined in the Appeals Webpages. You can formally complain by following the Complaints Procedure."
+    },
+    {
+        "prompt": "What steps can I take if I believe my exam or essay has not been graded fairly?",
+        "completion": "You should contact the module leader to explain your concern. You can appeal but only on the grounds outlined in the Appeals Webpages. You can formally complain by following the Complaints Procedure."
+    },
+    {
+        "prompt": "Whom should I approach to discuss my concerns about the fairness of my exam or essay marking?",
+        "completion": "You should contact the module leader to explain your concern. You can appeal but only on the grounds outlined in the Appeals Webpages. You can formally complain by following the Complaints Procedure."
+    },
+    {
+        "prompt": "Is there a specific process in place for addressing issues related to grading fairness?",
+        "completion": "You should contact the module leader to explain your concern. You can appeal but only on the grounds outlined in the Appeals Webpages. You can formally complain by following the Complaints Procedure."
+    },
+    {
+        "prompt": "Are there any guidelines or criteria for determining whether a reevaluation of my exam or essay is warranted?",
+        "completion": "You should contact the module leader to explain your concern. You can appeal but only on the grounds outlined in the Appeals Webpages. You can formally complain by following the Complaints Procedure."
+    },
+    {
+        "prompt": "How can I initiate a review of my exam or essay if I feel it was not marked fairly?",
+        "completion": "You should contact the module leader to explain your concern. You can appeal but only on the grounds outlined in the Appeals Webpages. You can formally complain by following the Complaints Procedure."
+    },
+    {
+        "prompt": "What are the usual time frames for seeking a reevaluation of exam or essay marking?",
+        "completion": "You should contact the module leader to explain your concern. You can appeal but only on the grounds outlined in the Appeals Webpages. You can formally complain by following the Complaints Procedure."
+    },
+    {
+        "prompt": "Is there any documentation or evidence I need to provide to support my claim of unfair grading?",
+        "completion": "You should contact the module leader to explain your concern. You can appeal but only on the grounds outlined in the Appeals Webpages. You can formally complain by following the Complaints Procedure."
+    },
+    {
+        "prompt": "Are there any potential implications or consequences associated with requesting a reevaluation?",
+        "completion": "Should contact the module leader to explain your concern. You can also appeal but only on the grounds outlined in the Appeals Webpages. Furthermore, you can formally complain by following the Complaints Procedure."
+    },
+    {
+        "prompt": "If I am dissatisfied with the outcome of the reevaluation, what further steps can I take?",
+        "completion": "It is possible either appeal or complain but you should also contact your module leader."
+    },
+    {
+        "prompt": "I have been referred to academic conduct, what do I do?",
+        "completion": "It is important for students to respond to Academic Conduct emails within the term specified, and to review the Academic Regulations for Student Conduct. If you are invited to attend a meeting, we recommend that you do so.  You are permitted to bring a fellow student, someone from ENSA or member of staff.  We recommend that you ask their Personal Development Tutor.  You have the right to appeal."
+    },
+    {
+        "prompt": "If I have been referred to academic conduct, what steps should I take next?",
+        "completion": "It is important for students to respond to Academic Conduct emails within the term specified, and to review the Academic Regulations for Student Conduct. If you are invited to attend a meeting, we recommend that you do so.  You are permitted to bring a fellow student, someone from ENSA or member of staff.  We recommend that you ask their Personal Development Tutor.  You have the right to appeal."
+    },
+    {
+        "prompt": "Whom should I contact or approach to address the academic conduct referral?",
+        "completion": "It is important for students to respond to Academic Conduct emails within the term specified, and to review the Academic Regulations for Student Conduct. If you are invited to attend a meeting, we recommend that you do so.  You are permitted to bring a fellow student, someone from ENSA or member of staff.  We recommend that you ask their Personal Development Tutor.  You have the right to appeal."
+    },
+    {
+        "prompt": "Is there a specific process or procedure to follow after being referred to academic conduct?",
+        "completion": "It is important for students to respond to Academic Conduct emails within the term specified, and to review the Academic Regulations for Student Conduct. If you are invited to attend a meeting, we recommend that you do so.  You are permitted to bring a fellow student, someone from ENSA or member of staff.  We recommend that you ask their Personal Development Tutor.  You have the right to appeal."
+    },
+    {
+        "prompt": "What resources are available to help me navigate the academic conduct referral?",
+        "completion": "It is important for students to respond to Academic Conduct emails within the term specified, and to review the Academic Regulations for Student Conduct. If you are invited to attend a meeting, we recommend that you do so.  You are permitted to bring a fellow student, someone from ENSA or member of staff.  We recommend that you ask their Personal Development Tutor.  You have the right to appeal."
+    },
+    {
+        "prompt": "Are there any specific guidelines or expectations to be aware of during the academic conduct process?",
+        "completion": "It is important for students to respond to Academic Conduct emails within the term specified, and to review the Academic Regulations for Student Conduct. If you are invited to attend a meeting, we recommend that you do so.  You are permitted to bring a fellow student, someone from ENSA or member of staff.  We recommend that you ask their Personal Development Tutor.  You have the right to appeal."
+    },
+    {
+        "prompt": "How can I gather information about the nature of the academic conduct referral?",
+        "completion": "It is important for students to respond to Academic Conduct emails within the term specified, and to review the Academic Regulations for Student Conduct. If you are invited to attend a meeting, we recommend that you do so.  You are permitted to bring a fellow student, someone from ENSA or member of staff.  We recommend that you ask their Personal Development Tutor.  You have the right to appeal."
+    },
+    {
+        "prompt": "Are there any potential consequences associated with the academic conduct referral?",
+        "completion": "It is important for students to respond to Academic Conduct emails within the term specified, and to review the Academic Regulations for Student Conduct. If you are invited to attend a meeting, we recommend that you do so.  You are permitted to bring a fellow student, someone from ENSA or member of staff.  We recommend that you ask their Personal Development Tutor.  You have the right to appeal."
+    },
+    {
+        "prompt": "Is there a deadline for responding or taking action following the academic conduct referral?",
+        "completion": "You must respond to Academic Conduct by the proposed time and review the Academic Regulations for Student Conduct. It is recommended to attend the meeting. It is allowed to bring a student tor ENSA or staff member. We recommend that you ask your Personal Development Tutor.  You have the right to appeal."
+    },
+    {
+        "prompt": "What options do I have for seeking support or advice during this situation?",
+        "completion": "It is important for students to respond to Academic Conduct emails within the term specified, and to review the Academic Regulations for Student Conduct. If you are invited to attend a meeting, we recommend that you do so. You can have a student tor staff member from ENSA to accompany you. It is recommended to ask your Personal Development tutor. You can also appeal."
+    },
+    {
+        "prompt": "Do I have to come to university during inter-trimester weeks and weeks 1 Continuing?",
+        "completion": "You are expected that to attend University as you committed to a full-time course of study."
+    },
+    {
+        "prompt": "Is it compulsory for me to attend the university during inter-trimester weeks and weeks 1 Continuing?",
+        "completion": "You are expected that to attend University as you committed to a full-time course of study."
+    },
+    {
+        "prompt": "Are there any attendance requirements for students during inter-trimester weeks and weeks 1 Continuing?",
+        "completion": "You are expected that to attend University as you committed to a full-time course of study."
+    },
+    {
+        "prompt": "What is the university's policy regarding student attendance during inter-trimester breaks and the initial weeks of the new trimester?",
+        "completion": "You are expected that to attend University as you committed to a full-time course of study."
+    },
+    {
+        "prompt": "Can I opt to not come to the university during inter-trimester weeks and weeks 1 Continuing without any consequences?",
+        "completion": "You are expected that to attend University as you committed to a full-time course of study."
+    },
+    {
+        "prompt": "Are there any specific activities or events scheduled during inter-trimester weeks and weeks 1 Continuing that I should be aware of?",
+        "completion": "You are expected that to attend University as you committed to a full-time course of study."
+    },
+    {
+        "prompt": "If I choose not to attend the university during inter-trimester weeks and weeks 1 Continuing, will it impact my academic standing or grades?",
+        "completion": "You are expected that to attend University as you committed to a full-time course of study."
+    },
+    {
+        "prompt": "Are there any exceptions or special circumstances that allow students to be excused from attending during inter-trimester weeks and weeks 1 Continuing?",
+        "completion": "You are expected that to attend University as you committed to a full-time course of study."
+    },
+    {
+        "prompt": "What are the potential benefits or reasons for attending the university during inter-trimester weeks and weeks 1 Continuing?",
+        "completion": "You should attend University as you committed to a full-time course of study."
+    },
+    {
+        "prompt": "If I have academic or personal commitments during this period, are there alternatives or accommodations available to manage my absence from the university?",
+        "completion": "You are expected that to be at university as you committed to a full-time course of study."
+    },
+    {
+        "prompt": "I am absent due to illness, what should I do?",
+        "completion": "Should contact the module leader/ programme leader by email to let them know. Work experience/ placement: Should contact the placement to let them know that you are sick and module leader/ placement lead/supervisor."
+    },
+    {
+        "prompt": "What steps should I take if I am unable to attend due to illness?",
+        "completion": "Should contact the module leader/ programme leader by email to let them know. Work experience/ placement: Should contact the placement to let them know that you are sick and module leader/ placement lead/supervisor."
+    },
+    {
+        "prompt": "Whom should I inform about my absence from the institution due to illness?",
+        "completion": "Should contact the module leader/ programme leader by email to let them know. Work experience/ placement: Should contact the placement to let them know that you are sick and module leader/ placement lead/supervisor."
+    },
+    {
+        "prompt": "Is there a specific procedure or protocol to follow when reporting illness-related absences?",
+        "completion": "Should contact the module leader/ programme leader by email to let them know. Work experience/ placement: Should contact the placement to let them know that you are sick and module leader/ placement lead/supervisor."
+    },
+    {
+        "prompt": "Are there any necessary documents or proof required to validate my illness-related absence?",
+        "completion": "Should contact the module leader/ programme leader by email to let them know. Work experience/ placement: Should contact the placement to let them know that you are sick and module leader/ placement lead/supervisor."
+    },
+    {
+        "prompt": "How can I stay updated with the course materials and assignments while I am absent due to illness?",
+        "completion": "Should contact the module leader/ programme leader by email to let them know. Work experience/ placement: Should contact the placement to let them know that you are sick and module leader/ placement lead/supervisor."
+    },
+    {
+        "prompt": "Are there any resources or support services available to students who are absent due to illness?",
+        "completion": "Should contact the module leader/ programme leader by email to let them know. Work experience/ placement: Should contact the placement to let them know that you are sick and module leader/ placement lead/supervisor."
+    },
+    {
+        "prompt": "If my absence impacts my academic performance, what options do I have for seeking assistance or making up for missed work?",
+        "completion": "Should contact the module leader/ programme leader by email to let them know. Work experience/ placement: Should contact the placement to let them know that you are sick and module leader/ placement lead/supervisor."
+    },
+    {
+        "prompt": "Are there any attendance policies or considerations for students who are absent due to illness?",
+        "completion": "It is important to contact the module leader or programme leader to let them know. If on the placement you should contact the supervisor."
+    },
+    {
+        "prompt": "Can I request extensions or accommodations for coursework if my illness hinders my ability to meet deadlines?",
+        "completion": "Should contact the module leader as it is important to tell them. Should contact the placement supervisor if on internship."
+    }
+]
